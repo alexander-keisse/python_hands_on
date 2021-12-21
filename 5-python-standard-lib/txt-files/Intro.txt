@@ -1,0 +1,15 @@
+Python has a battery included philosophy which means it comes with a comprehensive library of packages and modules.
+
+These provided a lot of common features we need for building a real world applications.
+So in this package we are going to explore Python standard library.
+
+We are going to learn how to work with:
+
+1. Files
+2. SQLite
+3. Date/Time
+4. Random Values
+5. Emails
+...
+
+This package is meant as a reference guide where you can always come back to when working with these features!
