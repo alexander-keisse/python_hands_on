@@ -13,7 +13,7 @@ print(f'last item: {letters[-1]}')
 # Easy enough right? Ok now lets modify the first item:
 
 # letters[0] = 'A'
-letters[0].upper()  # Does the same as the above expression
+letters[0] = letters[0].upper()  # Does the same as the above expression
 
 # Now let's see what happened to our list:
 
